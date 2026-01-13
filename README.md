@@ -26,7 +26,7 @@ tg: @arsenichhh
 ## Основные навыки
 
 - Python
-- Работа с API
+- FastAPI
 - SQL (SQLite, базовые запросы)
 - Работа с файлами (CSV, JSON)
 - Telegram-боты
