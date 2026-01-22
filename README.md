@@ -30,7 +30,6 @@ tg: @arsenichhh
 - Async Python (async / await);
 - FastAPI (REST API, OpenAPI / docs)
 - HTTP, статус-коды, контракты API
-- Понимаю основы gRPC и Protocol Buffers, отличие от REST и сценарии использования.
 - SQL (SQLite, SELECT / INSERT / индексы)
 - Асинхронная работа с БД (aiosqlite)
 - Работа с файлами (CSV, JSON)
